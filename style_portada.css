@@ -15,9 +15,9 @@ body {
 }
 
 .header {
-  background-image: url("portada_main.jpg");
+  background-image: url("portada.jpeg");
   background-size: cover;
-  height: 800px;
+  height: 500px;
   text-align: center; 
 }
 
