@@ -43,6 +43,10 @@ body {
   .movil {
     display: none;
   }
+
+  .tablet {
+    display: none;
+  }
 }
 
 .header p {
@@ -179,6 +183,12 @@ body {
   .desktop {
     display: none;
   }
+
+
+  .tablet {
+    display: none;
+  }
+
   .resolution {
     width: 99%;
     text-align: center;
@@ -222,6 +232,10 @@ body {
   }
   
   .desktop {
+    display: none;
+  }
+
+  .movil {
     display: none;
   }
   .resolution {
