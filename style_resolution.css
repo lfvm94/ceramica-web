@@ -1,7 +1,4 @@
-.resolution {
-  width: 99%;
-  text-align: center;
-}
+
 
 
 /**Movil**/
@@ -10,30 +7,16 @@
   .desktop {
       display: none;
   }
-  .tablet {
-      display: none;
+  .resolution {
+    width: 99%;
+    text-align: center;
   }
+
+  
 }
-
-
-/**Tablet**/
-
-@media (min-width: 768px) and (max-width: 990px) {
-  .desktop {
-      display: none;
-  }
-  .movil {
-      display: none;
-  }
-}
-
-
 /**Desk**/
 
 @media (min-width: 991px) {
-  .tablet {
-      display: none;
-  }
   .movil {
       display: none;
   }
