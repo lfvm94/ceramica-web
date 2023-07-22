@@ -162,13 +162,13 @@ body {
   .header {
     background-image: url("portada2.jpeg");
     background-size: cover;
-    height: 180px;
+    height: 280px;
     text-align: center; 
   }
   
   .header .container {
     position: relative;
-    top: 30px;
+    top: 0.1px;
   }
   
   .header h1 {
